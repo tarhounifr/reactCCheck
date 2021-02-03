@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+  background-color: aqua;
+  border:solid 3px blue;
+  border-radius: 25px;
+  display: flex;
+  flex-direction: column;
+}
+.ProfilePhoto{
+  margin: 20px 50px;
+  border-radius: 25px;
+}
